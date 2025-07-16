@@ -126,3 +126,10 @@ This project is open source and available under the MIT License.
 ---
 
 Happy Learning! 🎓
+
+### feat: add closure examples and explanations
+> Commit #1 | 2026-07-25 08:24:49
+
+#### Changes
+- Refactored module structure
+- Updated API documentation
