@@ -133,3 +133,9 @@ Happy Learning! 🎓
 #### Changes
 - Refactored module structure
 - Updated API documentation
+
+## feat: implement debounce and throttle examples
+*Commit #14 - 2026-07-25 08:24:56*
+
+- Updated documentation for tricky-part-of-javascript
+- Added usage examples
