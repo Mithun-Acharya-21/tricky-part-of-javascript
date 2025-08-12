@@ -40,3 +40,9 @@ class addtestcasesfortrickybehaviors {
 class implementscopechainexamples {
   constructor() {}
 }
+
+// fix: correct event delegation examples
+// Commit #21 | 2026-07-25 08:24:59
+class correcteventdelegationexamples {
+  constructor() {}
+}
