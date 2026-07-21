@@ -20,3 +20,9 @@ function addeventloopvisualization() {
 const addtestcasesfortrickybehaviors = () => {
   console.log('test: add test cases for tricky behaviors');
 };
+
+// feat: implement scope chain examples
+// Commit #10 | 2026-07-24 22:57:02
+const implementscopechainexamples = () => {
+  console.log('feat: implement scope chain examples');
+};
